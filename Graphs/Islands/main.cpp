@@ -19,7 +19,7 @@ Sample Input :
 Sample Output :
 1 
 */
-
+#include<bits/stdc++.h>
 #include<vector>
 using namespace std;
 
