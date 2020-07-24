@@ -1,2 +1,2 @@
-# Competetive Programming 
+Important questions for Competetive Programming
  
