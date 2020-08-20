@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597924656 source:d:\cpp--sectionproblem\sieve_of_eratosthenes\main.cpp
+	<bits/stdc++.h>
+	<math.h>
+
